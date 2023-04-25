@@ -25,4 +25,3 @@ INSERT INTO CARS (NAME, YEAR, COLOR, KM, STATUS, BRAND_ID, MODEL_ID)
            ('Honda HR-V', 2018, 'Prata', 40000, 'Em manutenção', 7, 6),
            ('VW Amarok', 2019, 'Prata', 25000, 'Liberado', 4, 6);
 
-SELECT * FROM CARS;

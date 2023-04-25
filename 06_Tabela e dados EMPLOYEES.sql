@@ -21,4 +21,3 @@ INSERT INTO EMPLOYEES (NAME, PHONE, CONTRACT_DATE, POSITION_ID)
            ('Matheus Alves', '(11) 92749-9602', '04/03/2015', 5),
            ('Aline Santos', '(11) 99789-3135', '06/05/202', 3);
 
-SELECT * FROM EMPLOYEES;

@@ -19,7 +19,6 @@ INSERT INTO CAR_BRAND (BRAND_NAME)
            ('Honda'),
            ('Fiat');
 
-        SELECT * FROM CAR_BRAND;
            
 
            

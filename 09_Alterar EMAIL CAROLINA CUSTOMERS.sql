@@ -1,7 +1,5 @@
 -- SQLite
 -- Alterar EMAIL CAROLINA CUSTOMERS
 
-SELECT * FROM CUSTOMERS;
-
 UPDATE CUSTOMERS SET EMAIL = 'carolina@campuscode.com.br'
     WHERE ID = 8;

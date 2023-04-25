@@ -20,4 +20,3 @@ INSERT INTO CAR_MODEL (MODEL_NAME)
            ('Utilitário'),
            ('Buggy');
 
-SELECT * FROM CAR_MODEL;

@@ -16,4 +16,3 @@ INSERT INTO POSITIONS (DESCRIPTION)
            ('Assistente Administrativo');
     
 
-    SELECT * FROM POSITIONS;
